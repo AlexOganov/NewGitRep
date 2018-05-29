@@ -1,0 +1,20 @@
+Copyright © 2015 BAE SYSTEMS Information and Electronic Systems Integration, Inc. All Rights Reserved.
+
+The copyright statement should be added to the C# Assembly Infomation.
+
+That infomation can be accessed via the GUI for the assmbley properties
+   > Properites > Applicaiton > Assembly Information button > Copyright field
+
+or by the AssemblyInfo.cs file. 
+[assembly: AssemblyCopyright("Copyright © 2015 BAE SYSTEMS Information and Electronic Systems Integration, Inc.")]
+
+
+
+---------------------------------------------------------------------------
+{An additional restrictions.txt file could be created to cover any additional
+ program restrictions such as export or contract rights.}
+
+Then the following statement could be added to files:
+
+Restrictions on the use, release, redistribution, display or disclosure of this file
+are contained in the file restrictions.txt.
